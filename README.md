@@ -22,47 +22,130 @@
 
 ## 🧰 功能一览
 
-### <img src="assets/icons/func_audio_media_noise_redt.png" width="30" valign="middle"/> &nbsp;音频降噪
+### <img src="assets/icons/func_audio_media_noise_redt.png" width="46" valign="middle"/> &nbsp;音频降噪
 音频 / 视频一键降噪，三档强度（标准 / 中等 / 高）自由调节，支持 MP3 / AAC / WAV 等多种格式输出；音视频分离与重新合并，视频去噪后可直接回贴原画面。
 
-### <img src="assets/icons/func_speechtotext_conver.png" width="30" valign="middle"/> &nbsp;文字与字幕提取
+<p>
+<img src="assets/screenshots/audio_media_noise_redt/audio_media_noise_redt_cn_1.jpeg" width="230"/>
+<img src="assets/screenshots/audio_media_noise_redt/audio_media_noise_redt_cn_2.jpeg" width="230"/>
+<img src="assets/screenshots/audio_media_noise_redt/audio_media_noise_redt_cn_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_speechtotext_conver.png" width="46" valign="middle"/> &nbsp;文字与字幕提取
 云端 AI 语音识别：支持自定义人名 / 产品名等热词提升准确率，四步可视化进度（音频处理 → 模型处理 → 文字提取 → 文字格式化），一键导出 TXT / SRT 字幕，并支持 AI 总结归纳。
 
-### <img src="assets/icons/func_photo_style_studio.png" width="30" valign="middle"/> &nbsp;照片百变写真
+<p>
+<img src="assets/screenshots/audio_media_noise_redt/audio_media_noise_redt_cn_4.jpeg" width="230"/>
+<img src="assets/screenshots/audio_media_noise_redt/audio_media_noise_redt_cn_5.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_photo_style_studio.png" width="46" valign="middle"/> &nbsp;照片百变写真
 一张自拍，秒变多种艺术风格写真大片，持续更新的风格库让每一张照片都有新玩法。
 
-### <img src="assets/icons/func_portrait_photo_enhancer.png" width="30" valign="middle"/> &nbsp;人像清晰处理
+<p>
+<img src="assets/screenshots/photo_style_studio/photo_style_studio_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/photo_style_studio/photo_style_studio_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/photo_style_studio/photo_style_studio_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_portrait_photo_enhancer.png" width="46" valign="middle"/> &nbsp;人像清晰处理
 模糊老照片、抓拍废片一键增强，细节与面部清晰度智能修复，让回忆重新透亮。
 
-### <img src="assets/icons/func_smart_copywriting_check.png" width="30" valign="middle"/> &nbsp;文案智能检测
+<p>
+<img src="assets/screenshots/portrait_photo_enhancer/portrait_photo_enhancer_cn_1.jpeg" width="230"/>
+<img src="assets/screenshots/portrait_photo_enhancer/portrait_photo_enhancer_cn_2.jpeg" width="230"/>
+<img src="assets/screenshots/portrait_photo_enhancer/portrait_photo_enhancer_cn_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_smart_copywriting_check.png" width="46" valign="middle"/> &nbsp;文案智能检测
 自媒体文案智能体检：多维度检测文案质量，提供修改稿与重写稿，一键复制优化结果。
 
-### <img src="assets/icons/func_imagetotext_recog.png" width="30" valign="middle"/> &nbsp;图片文字提取
+<p>
+<img src="assets/screenshots/smart_copywriting_check/smart_copywriting_check_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/smart_copywriting_check/smart_copywriting_check_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/smart_copywriting_check/smart_copywriting_check_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_imagetotext_recog.png" width="46" valign="middle"/> &nbsp;图片文字提取
 拍照 / 相册图片中的文字直接 OCR 提取，支持识别后翻译与复制，纸质资料秒变电子文本。
 
-### <img src="assets/icons/func_video_subtitle_stitch.png" width="30" valign="middle"/> &nbsp;视频字幕拼图
+<p>
+<img src="assets/screenshots/image_to_text_recognition/image_to_text_recognition_cn_1.jpeg" width="230"/>
+<img src="assets/screenshots/image_to_text_recognition/image_to_text_recognition_cn_2.jpeg" width="230"/>
+<img src="assets/screenshots/image_to_text_recognition/image_to_text_recognition_cn_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_video_subtitle_stitch.png" width="46" valign="middle"/> &nbsp;视频字幕拼图
 把视频里的字幕自动拼接成长图，追剧金句、课程重点一张图全收纳。
 
-### <img src="assets/icons/func_video_to_gif.png" width="30" valign="middle"/> &nbsp;视频转 GIF
+<p>
+<img src="assets/screenshots/video_subtitle_stitch/video_subtitle_stitch_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/video_subtitle_stitch/video_subtitle_stitch_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/video_subtitle_stitch/video_subtitle_stitch_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_video_to_gif.png" width="46" valign="middle"/> &nbsp;视频转 GIF
 任意片段裁剪、变速、循环，一键导出高清 GIF 动图，聊天斗图与表情包制作利器。
 
-### <img src="assets/icons/func_smart_receipt_recognition.png" width="30" valign="middle"/> &nbsp;票据智能识别
+<p>
+<img src="assets/screenshots/video_to_gif/video_to_gif_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/video_to_gif/video_to_gif_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/video_to_gif/video_to_gif_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_smart_receipt_recognition.png" width="46" valign="middle"/> &nbsp;票据智能识别
 小票、发票、收据拍照智能识别，金额 / 日期 / 商家结构化提取，报销记账不再手动输入。
 
-### <img src="assets/icons/func_smart_file_insight.png" width="30" valign="middle"/> &nbsp;智能文件解读
+<p>
+<img src="assets/screenshots/smart_receipt_recognition/smart_receipt_recognition_cn_1.jpeg" width="230"/>
+<img src="assets/screenshots/smart_receipt_recognition/smart_receipt_recognition_cn_2.jpeg" width="230"/>
+<img src="assets/screenshots/smart_receipt_recognition/smart_receipt_recognition_cn_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_smart_file_insight.png" width="46" valign="middle"/> &nbsp;智能文件解读
 导入文档即可 AI 解读要点，快速阅读长文、提炼核心信息。
 
-### <img src="assets/icons/func_smart_image_annotation.png" width="30" valign="middle"/> &nbsp;图片智能标注
+<p>
+<img src="assets/screenshots/smart_file_insight/smart_file_insight_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/smart_file_insight/smart_file_insight_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/smart_file_insight/smart_file_insight_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_smart_image_annotation.png" width="46" valign="middle"/> &nbsp;图片智能标注
 自动识别图中物体并添加标注，制作说明图、科普图更高效。
 
-### <img src="assets/icons/func_image_to_pdf.png" width="30" valign="middle"/> &nbsp;图片转 PDF
+<p>
+<img src="assets/screenshots/smart_image_annotation/smart_image_annotation_cn_1.png" width="230"/>
+<img src="assets/screenshots/smart_image_annotation/smart_image_annotation_cn_2.png" width="230"/>
+<img src="assets/screenshots/smart_image_annotation/smart_image_annotation_cn_3.png" width="230"/>
+</p>
+
+### <img src="assets/icons/func_image_to_pdf.png" width="46" valign="middle"/> &nbsp;图片转 PDF
 多图自由排序、一键合并为 PDF，扫描件、证件照轻松整理归档。
 
-### <img src="assets/icons/func_image_add_id.png" width="30" valign="middle"/> &nbsp;图片防伪水印
+<p>
+<img src="assets/screenshots/image_to_pdf/image_to_pdf_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/image_to_pdf/image_to_pdf_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/image_to_pdf/image_to_pdf_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_image_add_id.png" width="46" valign="middle"/> &nbsp;图片防伪水印
 为图片添加专属 ID 防伪水印，作品防盗、溯源有据。
 
-### <img src="assets/icons/func_qrscan_recog.png" width="30" valign="middle"/> &nbsp;二维码 · 条形码扫描
+<p>
+<img src="assets/screenshots/image_add_id/image_add_id_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/image_add_id/image_add_id_hans_2.jpeg" width="230"/>
+<img src="assets/screenshots/image_add_id/image_add_id_hans_3.jpeg" width="230"/>
+</p>
+
+### <img src="assets/icons/func_qrscan_recog.png" width="46" valign="middle"/> &nbsp;二维码 · 条形码扫描
 扫码、生成二维码、扫码直连 Wi-Fi，一物多用。
+
+<p>
+<img src="assets/screenshots/qr_code_scan/qr_code_scan_hans_1.jpeg" width="230"/>
+<img src="assets/screenshots/qr_code_scan/qr_code_scan_hans_2.PNG" width="230"/>
+<img src="assets/screenshots/qr_code_scan/qr_code_scan_hans_4.jpeg" width="230"/>
+</p>
 
 ## 🤖 AI 能力
 
@@ -79,6 +162,10 @@
 - 文件处理优先在设备本地完成
 - 涉及云端 AI 处理前提供明确的授权说明
 - 不上传与业务无关的个人数据
+
+## 📸 更多截图
+
+全部功能操作截图见 [`assets/screenshots/`](assets/screenshots/) 目录。
 
 ## 📥 下载
 
