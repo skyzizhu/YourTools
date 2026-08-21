@@ -12,7 +12,7 @@
 <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/zh-hans?size=250x83" alt="Download on the App Store" width="200">
 </a>
 
-[App Store 下载链接](https://apps.apple.com/us/app/your-tools-ai-toolbox/id6670400942)
+[App Store 下载链接](https://apps.apple.com/us/app/your-tools-ai-toolbox/id6670400942) ｜ [🌐 官网 www.yourtools.xyz](https://www.yourtools.xyz/)
 
 </div>
 
@@ -177,6 +177,8 @@
 
 **App Store**：[Your Tools - AI Toolbox](https://apps.apple.com/us/app/your-tools-ai-toolbox/id6670400942)
 
+🌐 **产品官网**：[www.yourtools.xyz](https://www.yourtools.xyz/)
+
 </div>
 
 ---
@@ -193,3 +195,5 @@
 Turn selfies into artistic portraits, restore blurry old photos, polish copywriting with AI, extract & translate text from images, stitch video subtitles into one long image, transcribe audio into SRT subtitles, denoise audio, add anti-theft watermarks, convert images to PDF, and much more — all in one app, in 7 languages, on iPhone & iPad.
 
 👉 [Download on the App Store](https://apps.apple.com/us/app/your-tools-ai-toolbox/id6670400942)
+
+🌐 Website: [www.yourtools.xyz](https://www.yourtools.xyz/)
